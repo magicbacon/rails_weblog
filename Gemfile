@@ -28,6 +28,6 @@ group :test do
   gem 'spork', '0.9.0'
 end
 
-#group :production do
-#  gem 'pq', '0.12.2'
-#end
+group :production do
+  gem 'pq', '0.12.2'
+end
